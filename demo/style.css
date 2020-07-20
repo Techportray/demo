@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+.gridpad{
+  padding: 15px;
+}
+
 h1 {
   padding: 8px;
   background: ;
@@ -549,4 +553,9 @@ footer #social-media-footer ul li:hover a .fa-github {
   main {
     width: 85%;
   }
+}
+.progresstext{
+font-family: sans-serif;
+font-size: 28;
+font-weight: bold;
 }
